@@ -1,2 +1,7 @@
-# group4_rwa2
-Assignment for ENPM663 
+# group4_rwa1
+Todos:
+better logging message
+better class structure
+report
+uml
+comments
